@@ -1,0 +1,5 @@
+# Demo
+owner: decyjphr-org
+repo: security-queries
+path: policies/low.yml
+ref: main
